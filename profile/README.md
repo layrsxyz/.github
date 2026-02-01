@@ -38,7 +38,7 @@ Zero-knowledge proofs → Correctness
 On-chain settlement → Minimal state exposure
 ```
 
-The architecture supports **2-5x leverage with private liquidations**. When you get margin called, your position size doesn't become tradeable information.
+The architecture supports **up to 10x leverage with private liquidations**. When you get margin called, your position size doesn't become tradeable information.
 
 ## 🔐 Technical Architecture
 
