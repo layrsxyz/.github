@@ -58,9 +58,9 @@ The architecture supports **up to 10x leverage with private liquidations**. When
 
 | Circuit | Purpose | Status |
 |---------|---------|--------|
-| **User Ownership** | Prove commitment ownership without revealing identity | 🟡 Designed |
-| **Withdrawal Authorization** | Authorize withdrawals without revealing balance | ✅ Implemented |
-| **Market Resolution** | Settle positions privately when markets close | 🟡 Designed |
+| **User Ownership** | Prove commitment ownership without revealing identity | � Under Development |
+| **Withdrawal Authorization** | Authorize withdrawals without revealing balance | 🔄 Under Development |
+| **Market Resolution** | Settle positions privately when markets close | 🔄 Under Development |
 
 **Proof aggregation** via zkVerify keeps verification costs at ~$0.0007 per proof (100x cheaper than L1 direct).
 
