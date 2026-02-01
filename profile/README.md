@@ -1,9 +1,9 @@
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/layrsxyz/layrs/main/layrs-dark.png">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/layrsxyz/layrs/main/layrs-light.png">
-  <img alt="Layrs Logo" src="https://raw.githubusercontent.com/layrsxyz/layrs/main/layrs-light.png" width="400">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/layrsxyz/public/main/layrs-dark.png">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/layrsxyz/public/main/layrs-light.png">
+  <img alt="Layrs Logo" src="https://raw.githubusercontent.com/layrsxyz/public/main/layrs-light.png" width="400">
 </picture>
 
 ### Privacy-First Prediction Markets with Real Leverage
@@ -11,7 +11,7 @@
 *Building the future of confidential trading infrastructure*
 
 [![Website](https://img.shields.io/badge/Website-layrs.xyz-blue)](https://layrs.xyz)
-[![Whitepaper](https://img.shields.io/badge/Whitepaper-Read-green)](https://github.com/layrsxyz/layrs/blob/main/TECHNICAL_WHITEPAPER.md)
+[![Whitepaper](https://img.shields.io/badge/Whitepaper-Read-green)](https://github.com/layrsxyz/public/blob/main/TECHNICAL_WHITEPAPER.md)
 [![License](https://img.shields.io/badge/License-MIT-yellow)](https://github.com/layrsxyz/layrs/blob/main/LICENSE)
 
 </div>
@@ -106,7 +106,7 @@ Without privacy, institutional capital stays away. With privacy, everything chan
 <td width="50%">
 
 ### 📖 Documentation
-- [**Technical Whitepaper**](https://github.com/layrsxyz/layrs/blob/main/TECHNICAL_WHITEPAPER.md) - Deep architecture dive
+- [**Technical Whitepaper**](https://github.com/layrsxyz/public/blob/main/TECHNICAL_WHITEPAPER.md) - Deep architecture dive
 - [**Withdrawal Circuit**](https://github.com/layrsxyz/layrs/blob/main/docs/WITHDRAWAL_CIRCUIT.md) - Circuit technical details
 - [**ZK Architecture**](https://github.com/layrsxyz/layrs/blob/main/docs/ZK_ARCHITECTURE.md) - System design overview
 
@@ -137,7 +137,7 @@ The goal: prove that confidential trading can work at institutional scale withou
 
 **Building in public. Shipping with intent.**
 
-[Website](https://layrs.xyz) • [Whitepaper](https://github.com/layrsxyz/layrs/blob/main/TECHNICAL_WHITEPAPER.md) • [Documentation](https://github.com/layrsxyz/layrs)
+[Website](https://layrs.xyz) • [Whitepaper](https://github.com/layrsxyz/public/blob/main/TECHNICAL_WHITEPAPER.md) • [Documentation](https://github.com/layrsxyz/layrs)
 
 *Leveraging zero-knowledge cryptography for financial privacy*
 
