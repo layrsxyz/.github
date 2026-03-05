@@ -1,14 +1,10 @@
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/layrsxyz/public/main/layrs-dark.png">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/layrsxyz/public/main/layrs-light.png">
-  <img alt="Layrs Logo" src="https://raw.githubusercontent.com/layrsxyz/public/main/layrs-light.png" width="400">
-</picture>
+<img alt="Layrs" src="https://raw.githubusercontent.com/layrsxyz/public/main/layrs-icon.png" width="120">
 
-### Privacy-First Prediction Markets with Real Leverage
+### Privacy-First Yield & Prediction Markets
 
-*Building the future of confidential trading infrastructure*
+*ZK-powered yield vaults and confidential trading infrastructure*
 
 [![Website](https://img.shields.io/badge/Website-layrs.xyz-blue)](https://layrs.xyz)
 [![Whitepaper](https://img.shields.io/badge/Whitepaper-Read-green)](https://github.com/layrsxyz/public/blob/main/TECHNICAL_WHITEPAPER.md)
